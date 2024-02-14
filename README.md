@@ -1,4 +1,5 @@
-This repository contains codes for my homework for the course "Introduction to Bioinformatics" during fall 2023 semester.
+This repository contains python codes for my homework for the course "Introduction to Bioinformatics" during fall 2023 semester.
+
 The files include:
   - A jupyter notebook for creating reads and genome assmebly.
   - A jupyter notebook to utilize different functions from hidden_markov library.
